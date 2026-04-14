@@ -5,7 +5,6 @@ A deep learning-powered web application that detects whether an uploaded image i
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15%2B-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## ✨ Features
 
