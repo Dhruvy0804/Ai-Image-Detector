@@ -101,4 +101,5 @@ ai-vs-real-detector/
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+All rights reserved. This project is for hackathon submission only.
+Unauthorized use is not allowed.
