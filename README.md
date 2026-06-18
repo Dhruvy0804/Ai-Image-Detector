@@ -99,6 +99,4 @@ ai-vs-real-detector/
 3. Selvaraju, R.R., et al. (2017). "Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization." *ICCV 2017*.
 
 ## 📄 License
-
-All rights reserved. This project is for hackathon submission only.
-Unauthorized use is not allowed.
+[MIT](LICENSE)
